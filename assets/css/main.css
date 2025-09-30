@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+div.c {
+  text-indent: 2%;
+}
+
 blockquote, q {
 	quotes: none;
 }
